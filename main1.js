@@ -31,8 +31,4 @@ var htmlstr = items.results.map(function(item) {
 
   }).join("");
 
-<<<<<<< HEAD
   itemContainer.innerHTML = htmlstr;
-=======
-  itemContainer.innerHTML = htmlstr;
->>>>>>> eb141b6764d1ad15d6edcfbcaab8660a9038fb33

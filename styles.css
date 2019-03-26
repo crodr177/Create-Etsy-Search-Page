@@ -347,11 +347,7 @@ html {
   padding: 10px;
   border-radius: 4px;
   font-size: 12px;
-<<<<<<< HEAD
   height: 2000px;
-=======
-  height: 1950px;
->>>>>>> eb141b6764d1ad15d6edcfbcaab8660a9038fb33
 }
 
 #special-offers {
@@ -891,10 +887,7 @@ input[type='radio']:checked:after {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-<<<<<<< HEAD
   position: relative;
-=======
->>>>>>> eb141b6764d1ad15d6edcfbcaab8660a9038fb33
 }
 
 #item-container {
@@ -902,7 +895,6 @@ input[type='radio']:checked:after {
   flex-direction: row;
   flex-wrap: wrap;
   width: 950px;
-<<<<<<< HEAD
   margin-top: 25px;
   position:relative;
 }
@@ -928,9 +920,6 @@ input[type='radio']:checked:after {
   position: absolute;
   top: 0px;
   left: 120px;
-
-=======
->>>>>>> eb141b6764d1ad15d6edcfbcaab8660a9038fb33
 }
 
 .data {
@@ -941,7 +930,6 @@ input[type='radio']:checked:after {
   position: relative;
 }
 
-<<<<<<< HEAD
 #body-container::before {
   content: 'Sort by: Relevancy';
   font-size: 14px;
@@ -965,8 +953,6 @@ input[type='radio']:checked:after {
 
 }
 
-=======
->>>>>>> eb141b6764d1ad15d6edcfbcaab8660a9038fb33
 .image {
   width: 251px;
   height: 199px;
@@ -1130,8 +1116,6 @@ abbr {
 #page-nums button:nth-child(9) {
   border-bottom-right-radius: 3px;
   border-top-right-radius: 3px;
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> eb141b6764d1ad15d6edcfbcaab8660a9038fb33
+
